@@ -16,9 +16,9 @@ jobs:
         ports:
           - 5432:5432
         env:
-          POSTGRES_USER: user
-          POSTGRES_PASSWORD: hackme
-          POSTGRES_DB: analyzer
+          POSTGRES_USER: felix1felloty
+          POSTGRES_PASSWORD: cUqsvj8[+^YbJK7
+          POSTGRES_DB: felix1felloty/web_kurs
 
     steps:
       - uses: actions/checkout@v2
